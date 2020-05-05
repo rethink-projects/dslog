@@ -1,7 +1,7 @@
 # dslog
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-https://github.com/rethinkws/dslog
+https://github.com/rethink-projects/dslog
 
 ### Description
 
